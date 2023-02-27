@@ -1,5 +1,5 @@
 # My Own Site!
-I created ir.
+I created it.
 
 # Updates!
 I updated the site.
